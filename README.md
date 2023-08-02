@@ -1,2 +1,2 @@
-# myDOTS_project
+# MyDots_project
 dots demo
